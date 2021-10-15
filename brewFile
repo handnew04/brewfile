@@ -18,6 +18,7 @@ cask "keka"
 cask "macs-fan-control"
 cask "appcleaner"
 cask "cheatsheet"
+cask "ractangle"
 
 # mas search Xcode
 mas "Xcode", id: 497799835
