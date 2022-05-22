@@ -19,6 +19,8 @@ cask "macs-fan-control"
 cask "appcleaner"
 cask "cheatsheet"
 cask "ractangle"
+cask "fuwari"
+cask "amphetamine"
 
 # mas search Xcode
 mas "Xcode", id: 497799835
