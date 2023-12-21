@@ -26,3 +26,13 @@ prompt_newline() {
   CURRENT_BG=''
 }
 ```
+
+
+## 그외 설치
+- Better Touch Tool
+- Session
+- Discord
+- Deepl
+- Logi Options+
+- Obsidian
+- Send to Kindle
