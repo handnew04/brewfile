@@ -82,8 +82,5 @@ prompt_newline() {
 
 ## 그외 설치
 - Better Touch Tool
-- Discord
-- Deepl
 - Logi Options+
-- Obsidian
 - Send to Kindle
