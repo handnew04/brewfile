@@ -83,3 +83,4 @@ prompt_newline() {
 ## 그외 설치
 - Logi Options+
 - Send to Kindle
+- pureRef (레퍼런스 드레그 앤 드롭)
