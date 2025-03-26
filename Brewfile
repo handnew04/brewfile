@@ -1,4 +1,3 @@
-tap "homebrew/bundle"
 brew "autojump"
 brew "cask"
 brew "curl"
