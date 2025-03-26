@@ -8,6 +8,11 @@ $ echo 'export PATH=/opt/homebrew/bin:$PATH' >> ~/.zshrc
 zshrc 반영
 $ source ~/.zshrc
 ```
+## brew file
+브루파일을 만들 폴더로 이동 
+brew bundle dump 로 파일 생성
+해당 파일에 현 레포지토리-brewfile의 내용 복사 붙여넣기
+brew bundle 로 파일 실행
 
 ## iterm custom
 ```
