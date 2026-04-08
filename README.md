@@ -86,6 +86,6 @@ prompt_newline() {
 <img width="585" alt="스크린샷 2023-12-27 오후 10 22 32" src="https://github.com/handnew04/brewfile/assets/44838136/d6838076-fdad-4897-8471-217fdd3442dd">
 
 ## 그외 설치
-- Logi Options+
+- 반디네이머
 - Send to Kindle
 - pureRef (레퍼런스 드레그 앤 드롭)
